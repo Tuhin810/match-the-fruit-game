@@ -1,2 +1,2 @@
 # match the fruit-game
-https://memory-game-bytuhin.netlify.app
+https://match-the-fruit.netlify.app/
